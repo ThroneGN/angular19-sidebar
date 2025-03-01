@@ -40,17 +40,17 @@ export class CustomSidenavComponent {
       route: 'content',
     },
 
-    {
-      icon: 'analytics',
-      label: 'Analytics',
-      route: 'analytics',
-    },
+    // {
+    //   icon: 'analytics',
+    //   label: 'Analytics',
+    //   route: 'analytics',
+    // },
 
-    {
-      icon: 'comment',
-      label: 'Comments',
-      route: 'comments',
-    },
+    // {
+    //   icon: 'comment',
+    //   label: 'Comments',
+    //   route: 'comments',
+    // },
 
   ]);
 
